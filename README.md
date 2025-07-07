@@ -16,4 +16,4 @@ This script creates secure and random passwords using letters, numbers, and symb
 Project by **Amna Noor**  
 💡 Beginner Python Developer  
 🎓 Student at PIAIC (AI & Robotic Engineering)  
-📫 Contact: amna2009noor@gmail.com
+📫 Contact: 03012240771
