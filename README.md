@@ -1,2 +1,19 @@
-# Password-Generator
-This beginner Python project generates secure passwords with a custom length. It uses random combinations of letters, numbers, and symbols. A great way to learn the random and string modules.
+# 🔐 Random Password Generator (Python)
+
+This script creates secure and random passwords using letters, numbers, and symbols. The user selects the desired password length, and a strong password is instantly generated.
+
+## 🔧 Features
+- User input for length
+- Secure character mixing
+- Uses `string` and `random` modules
+
+## 💡 Great for learning:
+- Loops
+- String handling
+- Random selection
+
+## 👩‍💻 Author
+Project by **Amna Noor**  
+💡 Beginner Python Developer  
+🎓 Student at PIAIC (AI & Robotic Engineering)  
+📫 Contact: amna2009noor@gmail.com
